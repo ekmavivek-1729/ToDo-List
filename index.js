@@ -31,7 +31,7 @@ const add_todo = () => {
 };
 
 
-
+// update your app without using local storage
 //show data
 const show_todo = () => {
     // console.log("Show");
