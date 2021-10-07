@@ -29,7 +29,7 @@ const add_todo = () => {
 
     show_todo();
 };
-
+// I hope you also manage your code without using local host
 
 
 //show data
